@@ -1,0 +1,2 @@
+# Shopping-Cart
+Redux use
